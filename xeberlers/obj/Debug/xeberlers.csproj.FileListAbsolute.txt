@@ -1,0 +1,14 @@
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\xeberlers.exe.config
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\xeberlers.exe
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\xeberlers.pdb
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\EntityFramework.dll
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\EntityFramework.xml
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.csprojResolveAssemblyReference.cache
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.Form1.resources
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.Properties.Resources.resources
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.csproj.GenerateResource.Cache
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.csproj.CoreCompileInputs.cache
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.exe
+C:\Users\Beard Josef\Source\Repos\xeberlers\xeberlers\obj\Debug\xeberlers.pdb
